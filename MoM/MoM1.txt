@@ -1,0 +1,6 @@
+Meeting #1 - 19 June 2022
+
+Do:
+1. Write simple docs on the notebooks
+2. A bit refactoring
+3. Concept of what we want to visualize or put into our storyboard
